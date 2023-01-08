@@ -18,5 +18,7 @@ Open up the integrated terminal and enter npm i to install your dependencies. Th
 ## Links
 
 Github repo: https://github.com/aramic11/shopify-store
+Video:
 https://user-images.githubusercontent.com/113563367/211177369-49c56a12-42c5-43f3-93fe-1e5a20043690.mp4
+
 
